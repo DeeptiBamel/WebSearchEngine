@@ -1,2 +1,2 @@
 # WebSearchEngine
-Java program for web search.
+Java backend program for web search
